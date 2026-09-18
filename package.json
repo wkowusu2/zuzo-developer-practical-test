@@ -1,0 +1,13 @@
+{
+  "name": "zuzo-developer-practical-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter environment for the ZuZo developer practical assessment.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
